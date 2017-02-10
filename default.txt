@@ -16,11 +16,13 @@ range = 6400
 // Format:
 // Type        , x    ,  z    , Description     , Owner     , href      , IconIndex
 
-Village         ,793   , 653   , Sand Village, Willoughby
+Village         ,793   , 653   , Sand Village, Willoughby, , 1
 Village         ,1202  , -626  , Sand Village, Willoughby
 Village         ,1733  , -1429 , Plains Village, Willoughby
 Village         ,2424  , -1746 , Plains Village, Willoughby
+DesertTemple    ,1095  , 311   , Desert Temple, Willoughby
 
 
                              
-Label           ,1533, -1180, Taiga, Willoughby
+Label           ,1533  , -1180 , Taiga, Willoughby, , 28
+MushroomIsland  ,743   , 39    , ShroomIsle, Elkadisu, 29
