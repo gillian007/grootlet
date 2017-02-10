@@ -7,7 +7,9 @@
 
 // Map settings:
 // =============
+title = Map of I Am Grootlet overworld
 range = 6400
+showcoordinates = true
 
 
 // Map locations:
