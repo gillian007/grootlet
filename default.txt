@@ -29,10 +29,10 @@ Label           ,2470  , -2787 , Guardian Temple, Willoughby, , 46
 
 
 // BIOMES                             
-MushroomIsland  ,743   , 39    , ShroomIsle, Elkadisu, 29
+MushroomIsland  ,743   , 39    , ShroomIsle, Elkadisu, , 29
 Label           ,1533  , -1180 , Taiga, Willoughby, , 28
 
 //PLAYER CONSTRUCTS
-Label           ,352   , 527   , Skelly Spawner y:21, Willoughby, , 8
-Label           ,1136  , 470   , Treehouse door y:70, Willoughby, , 23
-NetherPortal    ,2940  , -2856 , NetherPortal y:11, Willoughby
+Label           ,352   , 527   , "Skelly Spawner y:21", Willoughby, , 8
+Label           ,1136  , 470   , "Treehouse door y:70", Willoughby, , 23
+NetherPortal    ,2940  , -2856 , "NetherPortal y:11", Willoughby
