@@ -29,7 +29,7 @@ Label           ,2470  , -2787 , Guardian Temple, Willoughby, , 46
 
 
 // BIOMES                             
-MushroomIsland  ,743   , 39    , ShroomIsle, Elkadisu, , 29
+MushroomIsland  ,743   , 39    , "ShroomIsle", Elkadisu, , 29
 Label           ,1533  , -1180 , Taiga, Willoughby, , 28
 
 //PLAYER CONSTRUCTS
